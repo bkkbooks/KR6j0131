@@ -1,0 +1,45 @@
+canonical_identifier: bkk:krp/KR6j0131/v1
+canonical_location: https://kanripo.org/bkk/KR6j0131/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 一字頂輪王念誦儀軌
+  identifiers:
+    alt_id:
+    - T19n0954B
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0954B.xml
+    old_id: T19n0954B
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0131_000.yaml, hash: 'sha256:045b8590a8c5dd94924787b4e2237715d708cf9166b3a202c66bd47394895f3f'}
+  - {seq: 1, filename: KR6j0131_001.yaml, hash: 'sha256:1edb0cca3946cd1eb5e84bfae7932ebfd5619e50587d014717a94afa54dc3c0b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0131_001.markers.yaml, hash: 'sha256:7e48b94b43f56ae97be9b6e02eddfd43f8ab16483c1420a1d2adf7f7d6c368ad'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0131_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3269
+  label: 一字頂輪王念誦儀軌依《忉利天宮所說經》譯
+  type: juan
+  level: 1
+hash: sha256:17efb0e0933f3f9c526da3aad9175662bb469334db384547e2ddea393c40a6da
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

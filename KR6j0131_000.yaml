@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0131/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 一字頂輪王念誦儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0954B.xml
+    old_id: T19n0954B
+hash: sha256:045b8590a8c5dd94924787b4e2237715d708cf9166b3a202c66bd47394895f3f
