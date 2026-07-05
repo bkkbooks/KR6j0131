@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0131_000.yaml, hash: 'sha256:045b8590a8c5dd94924787b4e2237715d708cf9166b3a202c66bd47394895f3f'}
-  - {seq: 1, filename: KR6j0131_001.yaml, hash: 'sha256:1edb0cca3946cd1eb5e84bfae7932ebfd5619e50587d014717a94afa54dc3c0b'}
+  - {seq: 1, filename: KR6j0131_001.yaml, hash: 'sha256:a371490b7521074711aa9ea7c90006e29632b315422deee0a23f7e12f769e25b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0131_001.markers.yaml, hash: 'sha256:7e48b94b43f56ae97be9b6e02eddfd43f8ab16483c1420a1d2adf7f7d6c368ad'}
+  - {seq: 0, role: markers, filename: assets/KR6j0131_000.markers.yaml, hash: 'sha256:aaa270238f297cd81c213fe773750180fb1d8245ae8aaa7e789fabbbb1dcf517'}
+  - {seq: 1, role: markers, filename: assets/KR6j0131_001.markers.yaml, hash: 'sha256:7663b33a9561d946d8751bbfe56b90b2ce22d6c6c095bf22b6a5414c5b2e066d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 一字頂輪王念誦儀軌依《忉利天宮所說經》譯
   type: juan
   level: 1
-hash: sha256:17efb0e0933f3f9c526da3aad9175662bb469334db384547e2ddea393c40a6da
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9eb95f81bf53f4ff909eee8159e0ca396ae6d864b0a6d3aa795f0392a5e49b2c
