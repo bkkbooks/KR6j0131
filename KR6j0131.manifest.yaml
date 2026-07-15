@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0131/v1
 canonical_location: https://kanripo.org/bkk/KR6j0131/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 一字頂輪王念誦儀軌
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0131_000.yaml, hash: 'sha256:045b8590a8c5dd94924787b4e2237715d708cf9166b3a202c66bd47394895f3f'}
-  - {seq: 1, filename: KR6j0131_001.yaml, hash: 'sha256:a371490b7521074711aa9ea7c90006e29632b315422deee0a23f7e12f769e25b'}
+  - {seq: 1, filename: KR6j0131_001.yaml, hash: 'sha256:3e4e7c6a78dbcc88e516bd454b89ae32bf5beedaafee524d2e39cb5441256b25'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0131_000.markers.yaml, hash: 'sha256:aaa270238f297cd81c213fe773750180fb1d8245ae8aaa7e789fabbbb1dcf517'}
-  - {seq: 1, role: markers, filename: assets/KR6j0131_001.markers.yaml, hash: 'sha256:7663b33a9561d946d8751bbfe56b90b2ce22d6c6c095bf22b6a5414c5b2e066d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0131_001.markers.yaml, hash: 'sha256:7f2fa801aab5835b1a15e34f0d87344c64d9637071cbe1089bf4523c954d6b3f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,4 +40,7 @@ table_of_contents:
   label: 一字頂輪王念誦儀軌依《忉利天宮所說經》譯
   type: juan
   level: 1
-hash: sha256:9eb95f81bf53f4ff909eee8159e0ca396ae6d864b0a6d3aa795f0392a5e49b2c
+hash: sha256:c115b14ac0e64d7479773bd1a0059a4effb00e6dc8cd23e57e1bdf97dd470e72
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
